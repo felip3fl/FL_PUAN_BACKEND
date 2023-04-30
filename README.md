@@ -4,16 +4,12 @@
 <img src="https://img.shields.io/badge/PROJECT%20VERSION-0.0.0-blue">
 </h3>
 
-<h4 align="center"> 
-    :construction:  Projeto usado para estudo, forever em construção  :construction:
-</h4>
-
 <BR>
 
 ## 📃 Descrição do projeto
 
 <p align="justify">
- Projeto desenvolvido usando C# com o proposito de estudo
+ Projeto desenvolvido usando C#
 </p>
 
 <BR>
